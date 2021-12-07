@@ -1,1 +1,1 @@
-# linuz
+# linux
